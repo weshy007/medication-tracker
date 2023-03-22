@@ -1,0 +1,12 @@
+asgiref==3.6.0
+dj-database-url==1.2.0
+Django==4.1.7
+django-templated-mail==1.1.1
+djangorestframework==3.14.0
+djangorestframework-simplejwt==4.8.0
+djoser==2.1.0
+gunicorn==20.1.0
+psycopg2==2.9.5
+PyJWT==2.6.0
+python-decouple==3.8
+whitenoise==6.4.0
