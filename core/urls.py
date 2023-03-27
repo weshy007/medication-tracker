@@ -22,4 +22,6 @@ urlpatterns = [
     path("auth/", include('djoser.urls')),
     path("auth/", include('djoser.urls.jwt')),
 
+    path('meds/', include("medication.urls")),
+
 ]
